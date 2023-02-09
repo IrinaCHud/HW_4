@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top_header {
+    margin-top: 40px;
+    margin-bottom: 84px;
+}
+
+.content {
+    float: left;
+}
+
+.heading {
+    font-size: 60px;
+    line-height: 70px;
+    color: #000000;
+    margin-bottom: 17px;
+
+}
+
+.text {
+    width: 466px;
+    height: 48px;
+    font-size: 20px;
+    line-height: 23px;
+    color: #888888;
+}
+
+.paint {
+    width: 610.73px;
+    height: 372.9px;
+    margin-bottom: 163.1px;
+}
+
+.top_buttons_now {
+    width: 140px;
+    height: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+    border-radius: 50px;
+    border: white;
+    margin-right: 72px;
+
+}
+
+.top_buttons_video {
+    width: 90px;
+    height: 19px;
+    border: white;
+}
+
+.top_buttons {
+    padding-top: 52px;
+}
+
+.top_footer {
+    width: 1200px;
+    height: 50px;
+    padding-top: 97;
+    padding-bottom: 96;
+    /* почему-то внутренние отступы при просмотре в отладчике зачеркнутые и соответственно не отображаются немогу понять почему */
+}
